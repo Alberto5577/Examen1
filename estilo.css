@@ -3,10 +3,7 @@ h1.WebDevelopers {
 }
 p.login {
     
-    padding-left: 1400px;
-}
-p.pass {
-    padding-left: 100px;
+    padding-left: 1350px;
 }
 td.size {
     
@@ -22,4 +19,7 @@ table.background {
 }
 img.align2 {
     padding-left: 570px;
+}
+footer.color {
+    background-color: #4EFBE9;
 }
