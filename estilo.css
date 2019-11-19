@@ -1,12 +1,14 @@
 h1.WebDevelopers {
-    padding-left: 150px;
+    text-align: inherit;
 }
 p.login {
     
     padding-left: 1350px;
 }
 td.size {
-    
+    width: 150px;
+    height: 20px;
+    text-align: center;
 }
 h4.color {
     color: mediumblue;
@@ -16,10 +18,14 @@ img.align {
 }
 table.background {
     background-color:#F7F7C0;
+    border-collapse: separate;
 }
 img.align2 {
     padding-left: 570px;
 }
 footer.color {
     background-color: #4EFBE9;
+}
+p.sitio {
+    padding-left: 600px;
 }
